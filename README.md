@@ -1,4 +1,21 @@
 # DBDLobby-EternalBlight
-1:1 recreation of the Eternal Blight [4.3.0] lobby in Dead by Daylight
+Full recreation (1:1) of the Eternal Blight (4.3.0) Lobby in Dead by Daylight
 
-description soon im tired af 
+V1.0a of the Eternal Blight Lobby mod is available in the Releases tab (.pak file)
+Please note this is a WIP version of the lobby and is missing a few fixes.
+
+**V1.0a UPDATE:**
+
+- added missing candle blueprints around the lobby
+
+In a future update I hope to add:
+
+- Eternal Blight Menu Music
+- Update Ground Material to 3.6.0 / 4.1.2 (currently, it is using 3.0.0)
+- Use 1:1 SkyLight method
+
+Credits:
+
+Oleg / Олег Шабунов#6272 - creating template project, updating SDKs, materials & helping fix bugs/issues. (this would literally be impossible without him.)
+
+Pax - Recreating all components/aspects of the Silent Hill lobby 1:1 in Unreal Engine
