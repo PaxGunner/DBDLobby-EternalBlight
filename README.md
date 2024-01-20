@@ -8,6 +8,7 @@ Please note this is a WIP version of the lobby and is missing a few fixes.
 
 - added missing candle blueprints around the lobby
 - improved lighting
+- optimised file size (from 100MB to 74MB)
 
 **In a future update I hope to add:**
 
