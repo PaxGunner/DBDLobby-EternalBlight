@@ -7,7 +7,7 @@ Please note this is a WIP version of the lobby and is missing a few fixes.
 Known Issue(s):
 
 - there is a missing/bugged lighting component most noticeable in the survivor section of the lobby causing survivor models to look weird.
-
+- old OnlineSurvivorCam & OfflineSurvivorCam values are overriden by new blueprint camera positions added in 7.5.2+
 **V1.1 UPDATE:**
 
 - added missing candle blueprints around the lobby
