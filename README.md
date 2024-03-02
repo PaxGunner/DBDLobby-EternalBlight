@@ -4,6 +4,10 @@ Full recreation (1:1) of the Eternal Blight (4.3.0) Lobby in Dead by Daylight
 V1.1 of the Eternal Blight Lobby mod is available in the Releases tab (.pak file)
 Please note this is a WIP version of the lobby and is missing a few fixes.
 
+Known Issue(s):
+
+- there is a missing/bugged lighting component most noticeable in the survivor section of the lobby causing survivor models to look weird.
+
 **V1.1 UPDATE:**
 
 - added missing candle blueprints around the lobby
