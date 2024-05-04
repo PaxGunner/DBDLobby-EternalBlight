@@ -1,4 +1,5 @@
 # DBDLobby-EternalBlight
+# [OUTDATED UNTIL UPDATED TO UE5.2 / UNTIL MODDING RETURNS]
 Full recreation (1:1) of the Eternal Blight (4.3.0) Lobby in Dead by Daylight
 
 V1.1 of the Eternal Blight Lobby mod is available in the Releases tab (.pak file)
